@@ -1,4 +1,5 @@
 @import "~bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 /* 
 
@@ -11,3 +12,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.new-font{
+font-family: 'Dancing Script', cursive;
+}
